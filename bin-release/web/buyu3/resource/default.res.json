@@ -1,0 +1,390 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,fish_cannon_1_body_png,fish_cannon_1_head_png,fish_cannon_2_body_png,fish_cannon_2_head_png,fish_cannon_11_body_png,fish_cannon_11_head_png,fish_cannon_11_widget_1_png,fish_cannon_11_widget_2_png,fish_cannon_12_barrel_png,fish_cannon_12_body_png,fish_cannon_12_head_png,fish_cannon_13_body_png,fish_cannon_13_head_png,fish_cannon_14_body_png,fish_cannon_14_head_png,fish_cannon_14_wing_png,fish_cannon_15_body_png,fish_cannon_15_bow_png,fish_cannon_15_string_png,fish_cannon_16_body_png,fish_cannon_16_head_png,fish_cannon_17_body_png,fish_cannon_17_head_png,fish_cannon_17_head_2_png,fish_cannon_17_widget_1_png,fish_cannon_17_widget_2_png,fish_cannon_18_body_png,fish_cannon_18_head_png,fish_cannon_18_widget_png,fish_cannon_19_body_png,fish_cannon_19_head_1_png,fish_cannon_19_head_2_png,fish_cannon_101_body_png,fish_cannon_101_head_png,fish_cannon_102_body_png,fish_cannon_102_head_png,fish_cannon_102_wing_1_png,fish_cannon_102_wing_2_png,fish_cannon_102_wing_3_png,fish_cannon_102_wing_4_png,fish_bullet_1_png,fish_net_1_png,fish_bullet_2_png,fish_net_2_png,fish_scene_1_jpg,fish_scene_2_jpg,fish_scene_3_jpg,fish_1101_1 (1)_png,fish_1101_1 (10)_png,fish_1101_1 (2)_png,fish_1101_1 (3)_png,fish_1101_1 (4)_png,fish_1101_1 (5)_png,fish_1101_1 (6)_png,fish_1101_1 (7)_png,fish_1101_1 (8)_png,fish_1101_1 (9)_png,fish_1103_1 (1)_png,fish_1103_1 (2)_png,fish_1103_1 (3)_png,fish_1103_1 (4)_png,fish_1103_1 (5)_png,fish_1103_1 (6)_png,fish_1103_1 (7)_png,fish_1103_1 (8)_png,fish_1103_1 (9)_png,fish_1103_1 (10)_png,fish_1101_catch_1_png,fish_1101_catch_2_png,fish_1101_catch_3_png,fish_1103_catch_1_png,fish_1103_catch_2_png,fish_1103_catch_3_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"name": "fish_cannon_1_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_1_body.png"
+		},
+		{
+			"name": "fish_cannon_1_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_1_head.png"
+		},
+		{
+			"name": "fish_cannon_2_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_2_body.png"
+		},
+		{
+			"name": "fish_cannon_2_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_2_head.png"
+		},
+		{
+			"name": "fish_cannon_11_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_11_body.png"
+		},
+		{
+			"name": "fish_cannon_11_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_11_head.png"
+		},
+		{
+			"name": "fish_cannon_11_widget_1_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_11_widget_1.png"
+		},
+		{
+			"name": "fish_cannon_11_widget_2_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_11_widget_2.png"
+		},
+		{
+			"name": "fish_cannon_12_barrel_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_12_barrel.png"
+		},
+		{
+			"name": "fish_cannon_12_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_12_body.png"
+		},
+		{
+			"name": "fish_cannon_12_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_12_head.png"
+		},
+		{
+			"name": "fish_cannon_13_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_13_body.png"
+		},
+		{
+			"name": "fish_cannon_13_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_13_head.png"
+		},
+		{
+			"name": "fish_cannon_14_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_14_body.png"
+		},
+		{
+			"name": "fish_cannon_14_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_14_head.png"
+		},
+		{
+			"name": "fish_cannon_14_wing_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_14_wing.png"
+		},
+		{
+			"name": "fish_cannon_15_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_15_body.png"
+		},
+		{
+			"name": "fish_cannon_15_bow_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_15_bow.png"
+		},
+		{
+			"name": "fish_cannon_15_string_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_15_string.png"
+		},
+		{
+			"name": "fish_cannon_16_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_16_body.png"
+		},
+		{
+			"name": "fish_cannon_16_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_16_head.png"
+		},
+		{
+			"name": "fish_cannon_17_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_17_body.png"
+		},
+		{
+			"name": "fish_cannon_17_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_17_head.png"
+		},
+		{
+			"name": "fish_cannon_17_head_2_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_17_head_2.png"
+		},
+		{
+			"name": "fish_cannon_17_widget_1_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_17_widget_1.png"
+		},
+		{
+			"name": "fish_cannon_17_widget_2_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_17_widget_2.png"
+		},
+		{
+			"name": "fish_cannon_18_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_18_body.png"
+		},
+		{
+			"name": "fish_cannon_18_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_18_head.png"
+		},
+		{
+			"name": "fish_cannon_18_widget_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_18_widget.png"
+		},
+		{
+			"name": "fish_cannon_19_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_19_body.png"
+		},
+		{
+			"name": "fish_cannon_19_head_1_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_19_head_1.png"
+		},
+		{
+			"name": "fish_cannon_19_head_2_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_19_head_2.png"
+		},
+		{
+			"name": "fish_cannon_101_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_101_body.png"
+		},
+		{
+			"name": "fish_cannon_101_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_101_head.png"
+		},
+		{
+			"name": "fish_cannon_102_body_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_102_body.png"
+		},
+		{
+			"name": "fish_cannon_102_head_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_102_head.png"
+		},
+		{
+			"name": "fish_cannon_102_wing_1_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_102_wing_1.png"
+		},
+		{
+			"name": "fish_cannon_102_wing_2_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_102_wing_2.png"
+		},
+		{
+			"name": "fish_cannon_102_wing_3_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_102_wing_3.png"
+		},
+		{
+			"name": "fish_cannon_102_wing_4_png",
+			"type": "image",
+			"url": "cannon/fish_cannon_102_wing_4.png"
+		},
+		{
+			"name": "fish_bullet_1_png",
+			"type": "image",
+			"url": "bullet/fish_bullet_1.png"
+		},
+		{
+			"name": "fish_net_1_png",
+			"type": "image",
+			"url": "bullet/fish_net_1.png"
+		},
+		{
+			"name": "fish_bullet_2_png",
+			"type": "image",
+			"url": "bullet/fish_bullet_2.png"
+		},
+		{
+			"name": "fish_net_2_png",
+			"type": "image",
+			"url": "bullet/fish_net_2.png"
+		},
+		{
+			"name": "fish_scene_1_jpg",
+			"type": "image",
+			"url": "scene/fish_scene_1.jpg"
+		},
+		{
+			"name": "fish_scene_2_jpg",
+			"type": "image",
+			"url": "scene/fish_scene_2.jpg"
+		},
+		{
+			"name": "fish_scene_3_jpg",
+			"type": "image",
+			"url": "scene/fish_scene_3.jpg"
+		},
+		{
+			"name": "fish_1101_1 (1)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (1).png"
+		},
+		{
+			"name": "fish_1101_1 (10)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (10).png"
+		},
+		{
+			"name": "fish_1101_1 (2)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (2).png"
+		},
+		{
+			"name": "fish_1101_1 (3)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (3).png"
+		},
+		{
+			"name": "fish_1101_1 (4)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (4).png"
+		},
+		{
+			"name": "fish_1101_1 (5)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (5).png"
+		},
+		{
+			"name": "fish_1101_1 (6)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (6).png"
+		},
+		{
+			"name": "fish_1101_1 (7)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (7).png"
+		},
+		{
+			"name": "fish_1101_1 (8)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (8).png"
+		},
+		{
+			"name": "fish_1101_1 (9)_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_1 (9).png"
+		},
+		{
+			"name": "fish_1103_1 (1)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (1).png"
+		},
+		{
+			"name": "fish_1103_1 (2)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (2).png"
+		},
+		{
+			"name": "fish_1103_1 (3)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (3).png"
+		},
+		{
+			"name": "fish_1103_1 (4)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (4).png"
+		},
+		{
+			"name": "fish_1103_1 (5)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (5).png"
+		},
+		{
+			"name": "fish_1103_1 (6)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (6).png"
+		},
+		{
+			"name": "fish_1103_1 (7)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (7).png"
+		},
+		{
+			"name": "fish_1103_1 (8)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (8).png"
+		},
+		{
+			"name": "fish_1103_1 (9)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (9).png"
+		},
+		{
+			"name": "fish_1103_1 (10)_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_1 (10).png"
+		},
+		{
+			"name": "fish_1101_catch_1_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_catch_1.png"
+		},
+		{
+			"name": "fish_1101_catch_2_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_catch_2.png"
+		},
+		{
+			"name": "fish_1101_catch_3_png",
+			"type": "image",
+			"url": "fish_1101/fish_1101_catch_3.png"
+		},
+		{
+			"name": "fish_1103_catch_1_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_catch_1.png"
+		},
+		{
+			"name": "fish_1103_catch_2_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_catch_2.png"
+		},
+		{
+			"name": "fish_1103_catch_3_png",
+			"type": "image",
+			"url": "fish_1103/fish_1103_catch_3.png"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "西部数码",
+        "host": "123456west.gotoftp2.com",
+        "user": "123456west",
+        "password": "pphfey2n",
+        "port": 21,
+        "protocol": "ftp",
+        "remotePath": "捕鱼/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1507115236815.diff",
+        "usediffFile": true
+    },
+    {
+        "name": "ftp-171004190938",
+        "host": "host",
+        "user": "username",
+        "password": "password",
+        "port": 21,
+        "protocol": "ftp",
+        "remotePath": "game/",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1507115383696.diff",
+        "usediffFile": true
+    }
+]
